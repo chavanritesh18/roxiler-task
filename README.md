@@ -16,7 +16,7 @@ Bar chart displaying price ranges and item counts.
 
 Frontend: React.js
 Backend: Node.js, Express.js
-Database: MongoDB (or any other database you prefer)
+Database: MongoDB atlas
 Charts: Chart.js or any other charting library
 API: REST APIs
 Deployment: Netlify
